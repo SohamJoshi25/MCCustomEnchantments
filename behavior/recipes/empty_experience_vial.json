@@ -1,0 +1,25 @@
+{
+    "format_version": "1.16",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "vatonage:empty_experience_vial"
+        },
+    "tags": [ "crafting_table" ],
+        "pattern": [
+            "A A",
+            "ABA",
+            " A "
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:glass"
+            },
+            "B": {
+                "item": "minecraft:lapis_lazuli"
+            }
+        },
+        "result": {
+            "item": "vatonage:empty_experience_vial"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "format_version": "1.16",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "vatonage:common_tome"
+        },
+    "tags": [ "overenchant" ],
+        "pattern": [
+            "CBC",
+            "BAB",
+            "CBC"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:book"
+            },
+            "B": {
+                "item": "vatonage:experience_vial"
+            },
+            "C": {
+                "item": "minecraft:lapis_lazuli"
+            }
+        },
+        "result": {
+            "item": "vatonage:common_tome"
+        }
+    }
+}

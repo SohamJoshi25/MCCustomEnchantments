@@ -1,0 +1,37 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+
+      "identifier": "vatonage:empty_experience_vial"
+    },
+    "components": {
+      "minecraft:max_stack_size": 16,
+      "minecraft:foil": false,
+      "minecraft:stacked_by_data": false,
+      "minecraft:icon":{
+         "texture":"empty_experience_vial"
+      },
+      "minecraft:display_name":{
+         "value":"Empty Experience Vial"
+      },
+         "minecraft:on_use":{
+            "on_use":{
+               "event":"used"
+            }
+         }
+      },
+      "events":{
+         "used":{
+            "swing":{
+               
+            },
+            "run_command":{
+               "command":[
+                  "function experience_vial"
+               ]
+            }
+         }
+      }
+   }
+}

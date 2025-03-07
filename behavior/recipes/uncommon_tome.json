@@ -1,0 +1,28 @@
+{
+    "format_version": "1.16",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "vatonage:uncommon_tome"
+        },
+    "tags": [ "overenchant" ],
+        "pattern": [
+            "BCB",
+            "BAB",
+            "BBB"
+        ],
+        "key": {
+            "A": {
+                "item": "vatonage:common_tome"
+            },
+            "B": {
+                "item": "vatonage:experience_vial"
+            },
+            "C": {
+                "item": "minecraft:lapis_block"
+            }
+        },
+        "result": {
+            "item": "vatonage:uncommon_tome"
+        }
+    }
+}

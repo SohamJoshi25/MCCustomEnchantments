@@ -1,0 +1,7 @@
+{
+  "format_version": [ 0, 0, 1 ],
+  "vatonage:overenchantment_table": {
+    "textures": "overenchantment_table",
+    "sound": "metal"
+  }//
+}

@@ -1,0 +1,25 @@
+//Vatonage Studio Licence: Vatonage
+{
+    "format_version": 1,
+    "header": {
+        "description": "Created using Vatonage Studio",
+        "name": "Custom Enchantments",
+        "uuid": "73ddd781-4897-4258-94d5-7b358a4f26fc",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 8, 0]
+    },
+    "modules": [
+        {
+            "description": "Created using Vatonage Studio",
+            "type": "data",
+            "uuid": "31f8e762-6e9f-4ca9-adc7-d8174b6fdc46",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "6f8aefc2-6d6e-4875-b94a-81e588ce605e",
+            "version": [0, 0, 1]
+        }
+    ]
+}

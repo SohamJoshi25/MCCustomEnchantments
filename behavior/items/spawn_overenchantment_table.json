@@ -1,0 +1,35 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "category": "nature",
+      "identifier": "vatonage:spawn_overenchantment_table"
+    },
+    "components": {
+      "minecraft:max_stack_size": 64,
+      "minecraft:foil": false,
+      "minecraft:stacked_by_data": false,
+      "minecraft:icon":{
+         "texture":"spawn_overenchantment_table"
+      },
+  	"minecraft:render_offsets": {
+  		"main_hand": {
+	  		"third_person": {
+				"position": [0.26, 1.0, -0.55],
+	  			"scale": [0.012, 0.012, 0.012]
+	  		},
+	  		"first_person": {
+  				"position": [3.54, -0.8, -6.4],
+	  			"scale": [0.03, 0.03, 0.03]
+		  	}
+ 	  	}
+	},
+      "minecraft:display_name":{
+         "value":"Overenchantment Table"
+      },
+      "minecraft:block_placer": {
+         "block": "vatonage:overenchantment_table"
+      }
+    }
+  }
+}

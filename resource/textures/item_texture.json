@@ -1,0 +1,36 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+  "common_tome": {
+     "textures": "textures/items/common_tome"
+  },
+  "uncommon_tome": {
+     "textures": "textures/items/uncommon_tome"
+  },
+  "rare_tome": {
+     "textures": "textures/items/rare_tome"
+  },
+  "epic_tome": {
+     "textures": "textures/items/epic_tome"
+  },
+  "legendary_tome": {
+     "textures": "textures/items/legendary_tome"
+  },
+  "spawn_overenchantment_table": {
+     "textures": "textures/items/spawn_overenchantment_table"
+  },
+  "overenchantment_book": {
+     "textures": "textures/items/overenchantment_book"
+  },
+  "experience_vial": {
+     "textures": "textures/items/experience_vial"
+  },
+  "empty_experience_vial": {
+     "textures": "textures/items/empty_experience_vial"
+  },
+  "compressed_experience": {
+     "textures": "textures/items/compressed_experience"
+  }//
+ }
+}
